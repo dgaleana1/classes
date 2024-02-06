@@ -1,0 +1,43 @@
+.orangeBox{
+    background-color: orange;
+    width: 100%;
+    height:100px;
+
+    display:inline-block;
+    color:whitesmoke;
+    text-align:center;
+    /* text-align: center; */
+    padding: 50px;
+    border: 1px solid red;
+    margin: 50px;
+    font-family: 'Protest Revolution', sans-serif;
+    font-size: 100px;
+}
+.paraDecor{
+    background-color: lightblue;
+    color:aliceblue;
+    font: bold;
+    width: 50%;
+    height: 100px;
+    padding: 50px;
+    border: 1px solid violet;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 50px;
+    font-family: 'Protest Riot', sans-serif;
+}
+
+.purpleB{
+    background-color: violet;
+    color:aliceblue;
+    font: bold;
+    width: 50%;
+    height: 100px;
+    padding: 50px;
+    border: 1px solid lightblue;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 30px;
+    font-family: 'Protest Riot', sans-serif;
+}
+
